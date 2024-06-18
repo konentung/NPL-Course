@@ -1,0 +1,4 @@
+transformers
+tensorflow==2.16.1
+tf-keras
+pillow==10.3.0
